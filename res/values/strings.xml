@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Field-Admin beta</string>
+
+    <string-array name="titles">
+        <item>জনপ্রশাসন মন্ত্রণালয়</item>
+        <item>বিভাগীয় কমিশনার</item>
+        <item>জেলা প্রশাসক</item>
+        <item> অতিরিক্ত জেলা প্রশাসক</item>
+        <item>উপজেলা নির্বাহী অফিসার</item>
+        <item>অন্যান্য</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item> টেলিফোন ও ইমেইলঃ জনপ্রশাসন মন্ত্রণালয়</item>
+        <item>বিভাগীয় কমিশনারদের ইমেইল তালিকা </item>
+        <item>জেলা প্রশাসকদের ইমেইল তালিকা</item>
+        <item>অতিরিক্ত জেলা প্রশাসকদের ইমেইল তালিকা</item>
+        <item>উপজেলা নির্বাহী অফিসারদের ইমেইল তালিকা </item>
+        <item>অন্যান্য নোটিশ </item>
+    </string-array>
+
+
+    <string-array name="division">
+        <item>ঢাকা</item>
+        <item>সিলেট</item>
+        <item>সুনামগঞ্জ</item>
+        <item> বরিশাল</item>
+        <item>চট্টগ্রাম</item>
+        <item>কুমিল্লা</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="syl_agri"> সিলেট-কৃষি তথ্য সার্ভিস হটলাইন</string>
+    <string name="syl_agri_content_bn">
+       উপ-পরিচালকের কার্যালয়, বিভাগীয় প্রাণিসম্পদ দপ্তর, সিলেট বিভাগ, সিলেট:
+       ফোন/ফ্যাক্স: ০৮২১-৭৬১ ৭৩৫;
+       ই-মেইল ঠিকানা: dddls.sylhet@gmail.com \n\n
+
+      অতিরিক্ত পরিচালকের কার্যালয়
+      কৃষি সম্প্রসারণ অধিদপ্তর, সিলেট অঞ্চল, সিলেট
+      ধোপা দিঘীর দক্ষিণ পাড় (শিশু পার্কের দক্ষিণ পাশে)
+      ফোন নম্বর: ০৮২১-৭২৩৮৭৫, ৭১৩৮৮৬
+      ফ্যাক্স নম্বার: ০৮২১-৭২৩৮৭৫
+      ই-মেইল: adsylhet@dae.gov.bd
+      ই-মেইল: adaesylhet@gmail.com  \n\n
+
+     আঞ্চলিক খাদ্য নিয়ন্ত্রকের কার্যালয়, বিভাগীয় বহুতল অফিস ভবন (২য় তলা), আলমপুর, সিলেট
+      ফোন নম্বর: ০৮২১-৭২৮৬৪৮
+      rcfoodsylhet@gmail.com   \n\n
+
+     উপ-পরিচালক, মৎস্য অধিদপ্তর, সুবিদবাজার, সিলেট
+     ফোনঃ ০৮২১-৭২৬১২৩, ফ্যাক্স- ০৮২১-৭২৬১৩০
+     ddsylhet@fisheries.gov.bd
+
+    </string>
+</resources>

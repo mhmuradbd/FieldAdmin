@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="murad.md.field_admin.About_Us">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:weightSum="1">
+
+                <Button
+                    android:text="মাঠ-প্রাশাসন ও সহযোগী সহজেই যোগাযোগ"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button1"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:gravity="center"
+                    android:background="@drawable/custom_button"/>
+
+                <TextView
+                    android:text="
+                    মাঠ-প্রাশাসন ও সহযোগী-সহজেই যোগাযোগ এই এপসটি বাংলাদেশ Name! এর সহযোগিতায় তৈরি করা হচ্চে ।
+                    আমাদের উদ্দেশ্য সরকারী সকল গুরুত্বপুর্ন নম্বর এই এপ্লিকেশনে আওতায় নিয়ে আসা।
+                    এই এপ্লিকেশন কোন তথ্য যোগ বা তথ্যগত ভুল অথবা পরামর্শ থাকলে নিচের ঠিকানায় যোগাযোগ করার জন্য অনুরোধ করা হলো:
+                     "
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView4" />
+
+                <Button
+                    android:text="যোগাযোগ"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button2"
+                    android:background="@drawable/custom_button"/>
+
+                <TextView
+                    android:text="
+                    বাড়ি # 140, রোড # 04,ব্লক # ই,
+                    শাহজালাল উপশহর,\n
+                    সিলেট-3100।\n
+                    ফোন : ০৮২১-৭২৬৪২৫\n
+                    মোবাইল : +৮৮ ০১৭১৫০২১৯২৬\n
+                    ই-মেইল : madho_bcc@yahoo.com\n
+                    ওয়েবসাইট : www.sylhet.bcc.net.bd\n"
+                    android:layout_width="match_parent"
+                    android:layout_height="165dp"
+                    android:id="@+id/textView5"
+                    android:layout_weight="5.18" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

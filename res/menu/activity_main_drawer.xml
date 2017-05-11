@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/material_home_green_64x64"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_tag"
+            android:icon="@drawable/material_pencil_green_64x64"
+            android:title="Recent" />
+        <item
+            android:id="@+id/nav_favbuttom"
+            android:icon="@drawable/material_mark_as_favorite_green_64x64"
+            android:title="Favorite" />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_art1"
+                android:icon="@drawable/material_pencil_green_64x64"
+                android:title="article_1" />
+            <item
+                android:id="@+id/nav_art2"
+                android:icon="@drawable/material_pencil_green_64x64"
+                android:title="article_2" />
+            <item
+                android:id="@+id/nav_art3"
+                android:icon="@drawable/material_pencil_green_64x64"
+                android:title="আমাদের সম্পর্কে "/>
+
+    </group>
+
+
+</menu>
+

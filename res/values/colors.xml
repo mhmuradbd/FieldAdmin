@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="edit_text_default_intimate">#ffffffff</color>
+    //color for about page start
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="color_article_back">#dc6007</color>
+    <color name="color_text_back_trans">#d1747473</color>
+    <color name="color_text_back_white_trans">#dbf4f4f4</color>
+    <color name="color_zero">#00112233</color>
+    <color name="color_app_white">#ffffff</color>
+    <color name="color_app_black">#3d3d3d</color>
+
+    <color name="color_selector_blue">#626b757e</color>
+    <color name="color_search_blue">#2d38ce</color>
+    <color name="color_label_blue">#f32f7ece</color>
+    <color name="colorAsh">#efefef</color>
+
+    <color name="quantum_blue">#0caade</color>
+
+
+    <color name="in_white_details">#da363636</color>
+
+
+
+
+    //end of color page
+</resources>
